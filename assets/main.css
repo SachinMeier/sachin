@@ -110,6 +110,11 @@ a:hover {
   color: #0077b5;
 }
 
+.nostr-hover:hover {
+  text-decoration: none;
+  color: purple;
+}
+
 /* content styling */
 .profile {
   margin: 0 auto;
